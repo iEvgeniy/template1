@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d0ecc7e7-602f-44d4-baca-fb710173ed99" name="learn" url="http://rocket01.ftp.ukraine.com.ua">
+        <fileTransfer host="rocket01.ftp.ukraine.com.ua" port="21" password="df98df9adfcbdfd2df9fdf9fdfc1dfc7" username="rocket01_novoch">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
